@@ -1,0 +1,17 @@
+{
+  "name": "bot-bcrypt",
+  "version": "1.0.0",
+  "description": "Bot Enkripsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "rasitech"
+  ],
+  "author": "rasitech",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
